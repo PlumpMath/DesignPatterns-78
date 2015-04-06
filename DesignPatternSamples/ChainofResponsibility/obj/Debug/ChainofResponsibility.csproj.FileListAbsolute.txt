@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\ChainofResponsibility\bin\Debug\ChainofResponsibility.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\ChainofResponsibility\bin\Debug\ChainofResponsibility.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\ChainofResponsibility\obj\Debug\ChainofResponsibility.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\ChainofResponsibility\obj\Debug\ChainofResponsibility.pdb

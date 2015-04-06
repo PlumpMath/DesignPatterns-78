@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Decorator\bin\Debug\Decorator.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Decorator\bin\Debug\Decorator.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Decorator\bin\Debug\Decorator.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Decorator\obj\Debug\Decorator.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Decorator\obj\Debug\Decorator.pdb

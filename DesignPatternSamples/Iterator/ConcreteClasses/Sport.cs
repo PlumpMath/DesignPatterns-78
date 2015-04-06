@@ -1,0 +1,19 @@
+﻿
+using Iterator.AbstractClasses;
+using Iterator.Contracts;
+using Iterator.Enums;
+namespace Iterator.ConcreteClasses
+{
+    public class Sport : AbstractCar
+    {
+        public Sport(IEngine engine)
+            : this(engine, VehicleColour.Unpainted)
+        {
+        }
+
+        public Sport(IEngine engine, VehicleColour colour)
+            : base(engine, colour)
+        {
+        }
+    }
+}

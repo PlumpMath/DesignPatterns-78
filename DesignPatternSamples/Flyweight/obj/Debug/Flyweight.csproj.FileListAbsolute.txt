@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Flyweight\bin\Debug\Flyweight.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Flyweight\bin\Debug\Flyweight.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Flyweight\bin\Debug\Flyweight.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Flyweight\obj\Debug\Flyweight.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Flyweight\obj\Debug\Flyweight.pdb

@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Proxy\bin\Debug\Proxy.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Proxy\bin\Debug\Proxy.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Proxy\bin\Debug\Proxy.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Proxy\obj\Debug\Proxy.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Proxy\obj\Debug\Proxy.pdb

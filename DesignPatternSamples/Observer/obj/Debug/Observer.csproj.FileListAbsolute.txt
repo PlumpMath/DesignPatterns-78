@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Observer\bin\Debug\Observer.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Observer\bin\Debug\Observer.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Observer\bin\Debug\Observer.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Observer\obj\Debug\Observer.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Observer\obj\Debug\Observer.pdb

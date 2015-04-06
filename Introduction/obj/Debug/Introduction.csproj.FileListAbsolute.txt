@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\Introduction\bin\Debug\Introduction.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\Introduction\bin\Debug\Introduction.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\Introduction\bin\Debug\Introduction.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\Introduction\obj\Debug\Introduction.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\Introduction\obj\Debug\Introduction.pdb

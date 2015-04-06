@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Command\bin\Debug\Command.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Command\bin\Debug\Command.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Command\bin\Debug\Command.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Command\obj\Debug\Command.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Command\obj\Debug\Command.pdb

@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Strategy\bin\Debug\Strategy.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Strategy\bin\Debug\Strategy.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Strategy\bin\Debug\Strategy.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Strategy\obj\Debug\Strategy.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Strategy\obj\Debug\Strategy.pdb

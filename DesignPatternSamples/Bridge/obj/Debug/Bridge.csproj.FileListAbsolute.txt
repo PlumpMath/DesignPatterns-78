@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Bridge\bin\Debug\Bridge.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Bridge\bin\Debug\Bridge.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Bridge\bin\Debug\Bridge.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Bridge\obj\Debug\Bridge.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Bridge\obj\Debug\Bridge.pdb

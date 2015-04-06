@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Singleton\bin\Debug\Singleton.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Singleton\bin\Debug\Singleton.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Singleton\bin\Debug\Singleton.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Singleton\obj\Debug\Singleton.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Singleton\obj\Debug\Singleton.pdb

@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Adapter\bin\Debug\Adapter.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Adapter\bin\Debug\Adapter.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Adapter\bin\Debug\Adapter.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Adapter\obj\Debug\Adapter.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Adapter\obj\Debug\Adapter.pdb

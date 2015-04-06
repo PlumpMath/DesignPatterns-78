@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Composite\bin\Debug\Composite.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Composite\bin\Debug\Composite.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Composite\bin\Debug\Composite.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Composite\obj\Debug\Composite.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Composite\obj\Debug\Composite.pdb

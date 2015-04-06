@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Facade\bin\Debug\Facade.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Facade\bin\Debug\Facade.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Facade\bin\Debug\Facade.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Facade\obj\Debug\Facade.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Facade\obj\Debug\Facade.pdb

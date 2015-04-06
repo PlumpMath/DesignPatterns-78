@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Prototype\bin\Debug\Prototype.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Prototype\bin\Debug\Prototype.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Prototype\bin\Debug\Prototype.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Prototype\obj\Debug\Prototype.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\State\bin\Debug\State.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\State\bin\Debug\State.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\State\bin\Debug\State.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\State\obj\Debug\State.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\State\obj\Debug\State.pdb

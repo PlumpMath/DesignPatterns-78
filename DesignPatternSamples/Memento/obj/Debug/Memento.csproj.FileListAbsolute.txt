@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Memento\bin\Debug\Memento.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Memento\bin\Debug\Memento.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Memento\bin\Debug\Memento.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Memento\obj\Debug\Memento.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Memento\obj\Debug\Memento.pdb

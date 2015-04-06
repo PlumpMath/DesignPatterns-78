@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Interpreter\bin\Debug\Interpreter.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Interpreter\bin\Debug\Interpreter.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Interpreter\bin\Debug\Interpreter.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Interpreter\obj\Debug\Interpreter.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\Interpreter\obj\Debug\Interpreter.pdb

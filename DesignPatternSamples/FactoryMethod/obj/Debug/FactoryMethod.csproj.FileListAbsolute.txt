@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\FactoryMethod\obj\Debug\FactoryMethod.pdb

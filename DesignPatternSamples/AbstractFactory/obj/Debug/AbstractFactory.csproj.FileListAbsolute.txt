@@ -1,0 +1,5 @@
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\MyProjectsAndSamples\DesignPatternSamples\DesignPatternSamples\AbstractFactory\obj\Debug\AbstractFactory.pdb
